@@ -96,7 +96,7 @@
 &kp TAB    &kp Q   &kp W   &kp E         &kp R                &kp T        &kp Y         &kp U          &kp I                   &kp O                    &kp P     &kp BSLH
 &kp ESC    &kp A   &kp S   &kp D         &kp F                &kp G        &kp H         &kp J          &kp K                   &kp L                    &kp SEMI  &kp SQT
 &kp LCTRL  &kp Z   &kp X   &kp C         &kp V                &kp B        &kp N         &kp M          &quick_mouse MB1 COMMA  &quick_mouse MB2 PERIOD  &mt LEFT_ALT FSLH  &kp RCTRL
-                           &mo MOD       &kp LEFT_SHIFT       &kp LEFT_WIN               &kp D  &kp BACKSPACE &kp LEFT_ALT
+                           &mo MOD       &kp LEFT_SHIFT       &kp LEFT_WIN               &kp LEFT_ALT  &kp BACKSPACE
                                          &kp SPACE            &mt LEFT_ALT DELETE        &kp ENTER &kp LEFT_ALT
             >;
         };
